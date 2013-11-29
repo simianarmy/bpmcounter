@@ -1,4 +1,4 @@
 bpmcounter
 ==========
 
-BPM Counter Using WebRTC and WebAudio API
+Ambient audio BPM Counter Using WebRTC, WebAudio API, and BeatDetektor.js

@@ -1,0 +1,11 @@
+{
+  "name": "Ambient BPM Detector",
+  "description": "Detects BPM from ambient audio",
+  "version": "0.1",
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "icons": {}
+}
